@@ -1,2 +1,0 @@
-# AndroidStudy
-Android-self-study
