@@ -6,7 +6,7 @@
 3. Study3 app: fragment와 frame을 이용해 탭 색깔바꾸기 
 4. Study4 app: viewpager와 adapter을 이용한 탭 색깔 페이져 실습
 5. Study5 app: SharedPreference 이용하여 방문 유무 구별하기/ 언어 resource 간단히 사용
-6.
+6. Study6 app: RecycleView, ViewHolder, Adapter을 이용해 인스타형식 뷰만들기
 7.
 8.
 
